@@ -1,0 +1,43 @@
+<html>
+<body>
+    <center>Post Message</center><br><br>
+    <ul>
+        <label for="">Enter Message:</label>
+        <input type="text">
+    </ul>
+    
+    <center>Fill any number of questions and answer.(Mininum2)</center>
+    <br>
+    <label for="">Enter Question 1:</label>
+    <input type="text">
+    <label for="">Context 1:</label>
+    <input type="text">
+    <br>
+    <label for="">Enter Question 2:</label>
+    <input type="text">
+    <label for="">Context 2:</label>
+    <input type="text">
+    <br>
+    <label for="">Enter Question 3:</label>
+    <input type="text">
+    <label for="">Context 3:</label>
+    <input type="text">
+    <br>
+    <label for="">Enter Question 4:</label>
+    <input type="text">
+    <label for="">Context 4:</label>
+    <input type="text">
+    <br>
+    <label for="">Enter Question 5:</label>
+    <input type="text">
+    <label for="">Context 5:</label>
+    <input type="text">
+    <br>
+    <center>
+        <label for="">Enter Thresold(>0 and < Q&A entered).</label>
+        <input type="number" min="0" max="5">
+        <br>
+        <button>Submit</button>
+    </center>
+</body>
+</html>

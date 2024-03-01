@@ -1,0 +1,22 @@
+<html>
+	<head>
+	<h2 align="center"> Novell Services Login</h2>
+	</head>
+<body>
+	<form>Username:   <input type="text" ></form>
+	<form>Password:   <input type="text" ></form>
+	<form>City of:    <input type="text" ></form>
+	<form>Employment: <input type="text" ></form>
+	Web server :  <select><option> --Choose server--</option></select><br>
+<p>Please specify your role:</p>
+	 <input type="radio" <p>Admin</p>
+	<input type="radio" <p>Engineer</p>
+	<input type="radio" <p>Manager</p>
+	<input type="radio" <p>Guest</p>
+<p>Single Sign-on to the following:</p>
+	<input type="checkbox"<p> Mail</p>
+	<input type="checkbox"<p> Payroll</p>
+	<input type="checkbox"<p> Self-service</p>
+<input type="submit" value="Login">    <input type="submit" value="Reset">
+</body>
+</html>

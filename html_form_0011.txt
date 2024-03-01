@@ -1,0 +1,14 @@
+<html>
+	<head>
+	</head>
+		<body>
+		<form>
+		Email:<br> <input type="text" name="Enter your email">
+		</form>
+		<input type="checkbox"<p> keep my email private.</p><hr>
+		 <p> Comment</p>
+		<textarea></textarea>
+		<hr>
+		<input type="submit" value="Send">
+		</body>
+</html>
